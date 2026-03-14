@@ -39,7 +39,6 @@
    <td> 
       <p>
         <img src="https://img.shields.io/badge/arduino_framework-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
-        
       </p>
     </td>
  </tr>
